@@ -42,6 +42,14 @@ collaboration and knowledge sharing happened through open-source.
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsanbarkhordar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsanbarkhordar&show_icons=true&theme=monokai" alt="Ehsan Barkhordar's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanbarkhordar&theme=monokai" alt="Ehsan Barkhordar's Github Steak" />
+</p>
+
+
 <!--
 **ehsanbarkhordar/ehsanbarkhordar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
