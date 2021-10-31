@@ -24,6 +24,9 @@ collaboration and knowledge sharing happened through open-source.
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
+<code><img height="50" src="https://lh3.googleusercontent.com/Bxp8IrKWEa-5KlyJp8jSXI5TAT7l0zA2XdEvdDtkEznVzhHLv01sSY82xu5nb1pfze121U6VHxwjc8HC31847_2GUzB-LJ1G3f4kcw"></code>
+<code><img height="50" src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/main-logo.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
