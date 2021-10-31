@@ -17,19 +17,18 @@ collaboration and knowledge sharing happened through open-source.
 
 🧰 Toolbox
 
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-line.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-line-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/scala-4.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
 
 ---
 
