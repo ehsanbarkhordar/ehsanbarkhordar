@@ -27,7 +27,6 @@ collaboration and knowledge sharing happened through open-source.
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
 
 ---
